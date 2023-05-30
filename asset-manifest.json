@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviesAndShows/static/css/main.f26cdad5.css",
+    "main.js": "/moviesAndShows/static/js/main.48aa5692.js",
+    "index.html": "/moviesAndShows/index.html",
+    "static/media/search.svg": "/moviesAndShows/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.f26cdad5.css.map": "/moviesAndShows/static/css/main.f26cdad5.css.map",
+    "main.48aa5692.js.map": "/moviesAndShows/static/js/main.48aa5692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26cdad5.css",
+    "static/js/main.48aa5692.js"
+  ]
+}
